@@ -1,15 +1,18 @@
 <?php
 
 /**
- * @file GoogleAnalyticsPlugin.inc.php
+ * @file journalTemplatePlugin.inc.php
  *
  * Copyright (c) 2003-2011 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @class GoogleAnalyticsPlugin
- * @ingroup plugins_generic_googleAnalytics
+ * Include contributions from:
+ * 	- 2014 Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria
  *
- * @brief Google Analytics plugin class
+ * @class journalTemplatePlugin
+ * @ingroup plugins_generic_journalTemplate
+ *
+ * @brief Journal Template plugin class
  */
 
 
