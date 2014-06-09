@@ -19,7 +19,7 @@
 
 	<!-- Journal Template -->
 	<message key="plugins.generic.journalTemplate.displayName">Journal Template Plugin</message>
-	<message key="plugins.generic.journalTemplate.description"><![CDATA[implemen articletemplates Hook" title="Journal Template site">Google Analytics site</a> for more information.]]></message>
+	<message key="plugins.generic.journalTemplate.description">Implements articletemplates Hook in plugin Journal Template site</message>
 
 	
 </locale>
